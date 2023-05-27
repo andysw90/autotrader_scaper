@@ -1,0 +1,9 @@
+{
+    "path" : "~/Projects/AutoTradR",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
